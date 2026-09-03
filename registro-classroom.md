@@ -19,7 +19,7 @@ O registro no Classroom deve conter:
 
 3. Trilha de aplicação escolhida: Trilha A
 4. Nome completo do modelo: meta-llama/Llama-3.2-3B-Instruct 
-5. URL da página do modelo no Hugging Face: [https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
+5. URL da página do modelo no Hugging Face: [https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF](https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF)
 6. Número de parâmetros: 3.21B
 7. Variante, formato e quantização: Variante instruct; Formato GGUF; Quantização Q4_K_M
 8. Licença: Llama 3.2 Community License
