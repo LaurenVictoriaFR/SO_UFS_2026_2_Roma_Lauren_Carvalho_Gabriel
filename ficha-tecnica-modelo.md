@@ -5,7 +5,7 @@
 | Critério | Preencher |
 |---|---|
 | Organização / nome completo do modelo | Meta // meta-llama/Llama-3.2-3B-Instruct |
-| URL do model card | https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct |
+| URL do model card | [https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF](https://huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF) |
 | Quantidade total de parâmetros (modelo-base) | 3.21B |
 | Finalidade (base, instruct, chat, código, multilíngue...) | Instruct (diálogo e cumprimento de instruções) |
 | Idioma(s) suportado(s) | Inglês, Português, Espanhol, Francês, Alemão, Italiano, Hindi, Tailandês |
